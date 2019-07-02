@@ -1,5 +1,3 @@
 [
-        {"username": "Loc1","password" : "1","fullname" :"LocVjp"},
-        {"username": "Loc2","password" : "1","fullname" :"LocPro"},
-        {"username": "Loc3","password" : "1","fullname" :"ABC"}
+        {"username": "Loc1","password" : "1","fullname" :"LocVjp"}
 ]
